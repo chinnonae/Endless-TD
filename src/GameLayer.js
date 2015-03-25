@@ -8,6 +8,7 @@ var GameLayer = cc.LayerColor.extend({
 
         this.mob = new Mob();
         this.addChild(this.mob);
+        this.mob.scheduleUpdate();
     }
 });
 

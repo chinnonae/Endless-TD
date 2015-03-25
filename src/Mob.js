@@ -16,7 +16,6 @@ var Mob = cc.Sprite.extend({
 
     update: function(){
 
-
     },
 
     analyzeStartPoint: function(){

@@ -46,8 +46,8 @@
  }
  *
  */
-var HEIGHT = 240;
-var WIDTH = 280;
+var HEIGHT = 440;
+var WIDTH = 440;
 cc.game.onStart = function(){
     cc.view.adjustViewPort(true);
     cc.view.setDesignResolutionSize(WIDTH, HEIGHT, cc.ResolutionPolicy.SHOW_ALL);

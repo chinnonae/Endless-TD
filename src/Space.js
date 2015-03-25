@@ -4,7 +4,7 @@
 var Space = cc.Sprite.extend({
     ctor: function(){
         this._super();
-        this.initWithFile('res/images/space.png');
+        this.initWithFile('res/images/grass.png');
         this.setAnchorPoint(cc.p(0,0));
     }
 
