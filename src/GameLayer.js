@@ -3,11 +3,15 @@
  */
 var GameLayer = cc.LayerColor.extend({
     init: function(){
+        this.map = new Map();
+        this.addChild(this.map);
 
+        this.mob = new Mob();
+        this.addChild(this.mob);
     }
 });
 
-var StartScene = Scene.extend({
+var StartScene = cc.Scene.extend({
     onEnter: function(){
         this._super();
         var layer = new GameLayer();
