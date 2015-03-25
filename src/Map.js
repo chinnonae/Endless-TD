@@ -9,16 +9,26 @@ var Map = cc.Node.extend({
 
        for(var i = 0; i<Map.HEIGHT ; i++)
             for(var j = 0; j<Map.WIDTH ; j++){
+                var item;
                 if(Map.STAGE_LAYOUT[i][j] == '-'){
-                    var walkpath = new WalkPath();
-                    walkpath.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
-                    this.addChild(walkpath);
+                    item = new WalkPath();
+                    item.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                    this.addChild(item);
                 }
                 if(Map.STAGE_LAYOUT[i][j] == '*'){
-                    var space = new Space();
-                    space.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
-                    this.addChild(space);
+                    item = new Space();
+                    item.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                    this.addChild(item);
                 }
+
+                if(Map.STAGE_LAYOUT[i][j] == 'e'){
+                    item = new StartPoint();
+                    item.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                    this.addChild(item);
+                }
+
+
+
             }
    }
 });

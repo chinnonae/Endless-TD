@@ -16,7 +16,8 @@
         "src/Map.js",
         "src/WalkPath.js",
         "src/Space.js",
-        "src/Mob.js"
+        "src/Mob.js",
+        "src/StartPoint.js"
 
     ]
 }
