@@ -21,7 +21,7 @@ var Mob = cc.Sprite.extend({
     analyzeStartPoint: function(){
         this.startPointY = 0;
         for(var x = 0; x < Map.WIDTH; x++){
-            if(Map.STAGE_LAYOUT[0][x] == '_'){
+            if(Map.STAGE_LAYOUT[0][x] == 'e'){
 
                 this.startPointX = x;
             }
