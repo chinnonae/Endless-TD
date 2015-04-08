@@ -9,6 +9,28 @@ var GameLayer = cc.LayerColor.extend({
         this.mob = new Mob();
         this.addChild(this.mob);
         this.mob.scheduleUpdate();
+
+        this.turret = new Turret();
+        this.addChild(this.turret);
+
+        this.scheduleUpdate();
+    },
+
+    update: function(){
+        var isInRange = this.checkMobInTurretRange();
+        if(isInRange){
+            console.log("Inrange");
+        }
+    },
+
+
+
+    checkMobInTurretRange: function(){
+        var mobPos = this.mob.getPosition();
+        var range = this.turret.range;
+        var turretPos = this.turret.getPosition();
+        var isInRange = true;
+
     }
 });
 

@@ -18,7 +18,8 @@
         "src/Space.js",
         "src/Mob.js",
         "src/StartPoint.js",
-        "src/Border.js"
+        "src/Border.js",
+        "src/Turret.js"
 
     ]
 }

@@ -11,24 +11,24 @@ var Map = cc.Node.extend({
            for (var j = 0; j < Map.WIDTH; j++) {
                if (Map.STAGE_LAYOUT[i][j] == '-') {
                    var walkpath = new WalkPath();
-                   walkpath.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                   walkpath.setPosition(cc.p( j*20+ 10, (Map.HEIGHT - i - 1)*20+10 ));
                    this.addChild(walkpath);
                }
                if (Map.STAGE_LAYOUT[i][j] == '*') {
                    var space = new Space();
-                   space.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                   space.setPosition(cc.p( j*20 +10 , (Map.HEIGHT - i - 1)*20 +10 ));
                    this.addChild(space);
                }
 
                if (Map.STAGE_LAYOUT[i][j] == 'e') {
                    var startpoint = new StartPoint();
-                   startpoint.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                   startpoint.setPosition(cc.p( j*20 + 10 , (Map.HEIGHT - i - 1)*20 +10 ));
                    this.addChild(startpoint);
                }
 
                if (Map.STAGE_LAYOUT[i][j] == 'b') {
                    var border = new Border();
-                   border.setPosition(cc.p( j*20, (Map.HEIGHT - i - 1)*20 ));
+                   border.setPosition(cc.p( j*20+10, (Map.HEIGHT - i - 1)*20+10 ));
                    this.addChild(border);
                }
 
