@@ -29,8 +29,13 @@ var GameLayer = cc.LayerColor.extend({
         var mobPos = this.mob.getPosition();
         var range = this.turret.range;
         var turretPos = this.turret.getPosition();
-        var isInRange = true;
 
+        var distance = Math.sqrt(Math.pow( mobPos.x - turretPos.x,2 ) + Math.pow( mobPos.y - turretPos.y, 2));
+        if(distance <= range){
+            return true;
+        }
+        return false;
+        // 51 mins
     }
 });
 
