@@ -20,7 +20,8 @@
         "src/Border.js",
         "src/Character.js",
         "src/CharacterBuilder.js",
-        "src/WordsBuilder.js"
+        "src/WordsBuilder.js",
+        "src/EndPoint.js"
 
     ]
 }

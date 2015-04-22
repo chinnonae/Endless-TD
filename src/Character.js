@@ -12,7 +12,7 @@ var Character = cc.Sprite.extend({
 
         this.analyzeStartPoint();
         this.setPosition(cc.p(20*this.startPointX ,(Map.HEIGHT-this.startPointY-1)*20));
-        this.moveSpeed = 1;
+        this.moveSpeed = 4;
         this.index = 0;
     },
 

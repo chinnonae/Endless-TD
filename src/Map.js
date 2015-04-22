@@ -32,6 +32,11 @@ var Map = cc.Node.extend({
                    this.addChild(border);
                }
 
+               if (Map.STAGE_LAYOUT[i][j] == 'g') {
+                   this.endPoint = new EndPoint();
+                   this.endPoint.setPosition(cc.p( j*20+10, (Map.HEIGHT - i - 1)*20+10 ));
+                   this.addChild(this.endPoint);
+               }
            }
 
    }

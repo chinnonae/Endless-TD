@@ -17,7 +17,12 @@ var GameLayer = cc.LayerColor.extend({
     update: function(){
         if(this.livingChar.length == 0){
             this.wordsBuilder.createNewWord();
+
+        } else {
+            this.checkEndGame();
         }
+
+
     },
 
     addKeyboardHandlers: function() {
@@ -43,6 +48,21 @@ var GameLayer = cc.LayerColor.extend({
 
     onKeyUp: function( keyCode, event ) {
 
+    },
+
+    checkEndGame: function(){
+        for(var i = 0; i < this.livingChar.length; i++){
+            if(this.map.endPoint.isReachedBy(this.livingChar[i])){
+                this.endGame();
+            }
+        }
+    },
+
+    endGame: function(){
+        this.unscheduleUpdate();
+        for(var i = 0; i < this.livingChar.length; i++){
+            this.livingChar[i].unscheduleUpdate();
+        }
     },
 
     isCharacterKey: function(keyCode){
