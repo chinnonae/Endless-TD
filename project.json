@@ -16,10 +16,11 @@
         "src/Map.js",
         "src/WalkPath.js",
         "src/Space.js",
-        "src/Mob.js",
         "src/StartPoint.js",
         "src/Border.js",
-        "src/Turret.js"
+        "src/Character.js",
+        "src/CharacterBuilder.js",
+        "src/WordsBuilder.js"
 
     ]
 }
