@@ -12,7 +12,6 @@ var EndPoint = cc.Sprite.extend({
         var charPos = character.getPosition();
         var endPos = this.getPosition();
         var isReached = 15 > Math.sqrt(Math.pow(endPos.x-charPos.x, 2) + Math.pow(endPos.y-charPos.y, 2));
-        console.log(isReached);
         return isReached;
     }
 })

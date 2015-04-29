@@ -12,6 +12,7 @@ var GameLayer = cc.LayerColor.extend({
 
         this.addKeyboardHandlers();
         this.scheduleUpdate();
+
     },
 
     update: function(){
@@ -21,7 +22,7 @@ var GameLayer = cc.LayerColor.extend({
         } else {
             this.checkEndGame();
         }
-
+        this.checkLivingCharHitWall();
 
     },
 
@@ -62,6 +63,26 @@ var GameLayer = cc.LayerColor.extend({
         this.unscheduleUpdate();
         for(var i = 0; i < this.livingChar.length; i++){
             this.livingChar[i].unscheduleUpdate();
+        }
+    },
+
+    checkLivingCharHitWall: function(){
+        for(var i = 0; i < this.livingChar.length ; i++){
+            var isBreaked = false;
+            for(var j = 0; j < this.map.wall.length ; j++){
+                var livingChar = this.livingChar[i];
+                var wall = this.map.wall[j];
+                console.log(livingChar.hitWall(wall));
+                if(livingChar.hitWall(wall)){
+                    this.livingChar.splice(i, 1);
+                    this.map.wall.splice(j, 1);
+                    livingChar.removeFromParent();
+                    wall.removeFromParent();
+                    isBreaked = true;
+                    break;
+                }
+            }
+            if(isBreaked) break;
         }
     },
 
