@@ -18,13 +18,22 @@
         "src/Space.js",
         "src/StartPoint.js",
         "src/Border.js",
+<<<<<<< HEAD
+        "src/"
+=======
         "src/Character.js",
         "src/CharacterBuilder.js",
         "src/WordsBuilder.js",
         "src/EndPoint.js",
+<<<<<<< HEAD
         "src/Wall.js",
         "src/Words.js",
         "src/Instruction.js",
         "src/Retry.js"
+=======
+        "src/Wall.js"
+>>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
+
+>>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
     ]
 }
