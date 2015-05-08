@@ -22,7 +22,9 @@
         "src/CharacterBuilder.js",
         "src/WordsBuilder.js",
         "src/EndPoint.js",
-        "src/Wall.js"
-
+        "src/Wall.js",
+        "src/Words.js",
+        "src/Instruction.js",
+        "src/Retry.js"
     ]
 }

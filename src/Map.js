@@ -80,7 +80,9 @@ var Map = cc.Node.extend({
         var wall = new Wall();
         this.addChild(wall);
         return wall;
-    }
+    },
+
+
 
 });
 

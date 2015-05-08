@@ -8,20 +8,27 @@ var GameLayer = cc.LayerColor.extend({
         this.map = new Map();
         this.addChild(this.map);
 
+        this.charSpeed = 2;
+        this.wordLength = 5;
         this.wordsBuilder = WordsBuilder.ctor(this);
+        this.score = 0;
 
         this.addKeyboardHandlers();
-        this.scheduleUpdate();
+        this.createScoreLabel();
+        this.createInstruction();
 
+        this.state = GameLayer.Start;
+        this.retry = new Retry();
     },
 
     update: function(){
         if(this.livingChar.length == 0){
-            this.wordsBuilder.createNewWord();
+            this.wordsBuilder.createNewWord( this.charSpeed, this.wordLength  );
 
         } else {
             this.checkEndGame();
         }
+        this.calculateSpeedAndLength();
         this.checkLivingCharHitWall();
 
     },
@@ -40,11 +47,25 @@ var GameLayer = cc.LayerColor.extend({
     },
 
     onKeyDown: function( keyCode, event ) {
+        if(this.state == GameLayer.Start){
+            this.state = GameLayer.Playing;
+            this.scheduleUpdate();
+            this.instruction.removeFromParent();
+        }
+        if(this.state == GameLayer.Died && cc.KEY.r == keyCode){
+            this.clear();
+            this.scheduleUpdate();
+
+        }
+
         if(this.isCharacterKey(keyCode)){
             if(String.fromCharCode(keyCode).toLowerCase()==this.livingChar[0].char){
+                this.addScore(this.livingChar[0]);
                 this.removeChild(this.livingChar.shift());
+
             }
         }
+
     },
 
     onKeyUp: function( keyCode, event ) {
@@ -60,10 +81,21 @@ var GameLayer = cc.LayerColor.extend({
     },
 
     endGame: function(){
+        this.state = GameLayer.Died;
         this.unscheduleUpdate();
+        this.addChild(this.retry);
         for(var i = 0; i < this.livingChar.length; i++){
             this.livingChar[i].unscheduleUpdate();
         }
+    },
+
+    createScoreLabel: function(){
+
+        this.scoreLabel = cc.LabelTTF.create('Score : 0', 'Angsana New', 24);
+        this.scoreLabel.setAnchorPoint(0,0);
+        this.scoreLabel.setPosition(240,240);
+        this.scoreLabel.setFontFillColor(cc.color(30, 30, 219, 255));
+        this.addChild(this.scoreLabel);
     },
 
     checkLivingCharHitWall: function(){
@@ -72,19 +104,64 @@ var GameLayer = cc.LayerColor.extend({
             for(var j = 0; j < this.map.wall.length ; j++){
                 var livingChar = this.livingChar[i];
                 var wall = this.map.wall[j];
-                console.log(livingChar.hitWall(wall));
                 if(livingChar.hitWall(wall)){
                     this.livingChar.splice(i, 1);
                     this.map.wall.splice(j, 1);
                     livingChar.removeFromParent();
                     wall.removeFromParent();
                     isBreaked = true;
+                    cc.audioEngine.playEffect('res/sounds/car_crash.mp3');
                     break;
                 }
             }
             if(isBreaked) break;
         }
     },
+
+    calculateSpeedAndLength: function(){
+        if(this.score <= 3000){
+            this.charSpeed = 2;
+            this.wordLength = 5;
+        } else if(this.score <= 8000) {
+            this.charSpeed = 2.5;
+            this.wordLength = 6;
+        } else if(this.score <= 15000) {
+            this.charSpeed = 4;
+            this.wordLength = 7;
+        } else if(this.score <= 20000) {
+            this.charSpeed = 5;
+            this.wordLength = 8;
+        }
+    },
+
+    addScore: function( char ){
+        var numberOfWall = this.map.wall.length;
+        var speed = char.moveSpeed;
+        this.score = this.score + (numberOfWall * speed);
+        this.scoreLabel.setString('Score : ' + this.score);
+    },
+
+    createInstruction: function(){
+        this.instruction = new Instruction();
+        this.instruction.setPosition(WIDTH/2, HEIGHT/2);
+        this.addChild(this.instruction);
+    },
+
+    clear: function(){
+        this.score = 0;
+        this.charSpeed = 2;
+        this.wordLength = 5;
+        for(var i = 0; i < this.livingChar.length; i++){
+            this.livingChar[i].removeFromParent();
+        }
+        this.livingChar = [];
+        this.map.removeFromParent();
+        this.map = new Map();
+        this.addChild(this.map);
+        this.scoreLabel.removeFromParent();
+        this.addChild(this.scoreLabel);
+    },
+
 
     isCharacterKey: function(keyCode){
         switch(keyCode){
@@ -130,4 +207,8 @@ var StartScene = cc.Scene.extend({
         this.addChild(layer);
     }
 });
+
+GameLayer.Start = 0;
+GameLayer.Playing = 1;
+GameLayer.Died = 2;
 

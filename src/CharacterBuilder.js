@@ -7,10 +7,10 @@ var CharacterBuilder = {
         return this;
     },
 
-    createAChar: function( char ){
+    createAChar: function( char, moveSpeed ){
         var filename = this.dir + '/*.png'.replace('*', char);
 
-        var character = new Character(filename, char);
+        var character = new Character(filename, char, moveSpeed);
 
         return character;
     }

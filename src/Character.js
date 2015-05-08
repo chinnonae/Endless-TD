@@ -2,24 +2,23 @@
  * Created by ChinNonaE-- on 25/3/2558.
  */
 var Character = cc.Sprite.extend({
-        ctor: function (imageFile, char) {
+        ctor: function (imageFile, char, moveSpeed) {
 
             this.char = char;
 
             this._super();
             this.initWithFile(imageFile);
-            //this.setAnchorPoint(cc.p(0, 0));
 
             this.analyzeStartPoint();
             this.setPosition(cc.p(20 * this.startPointX + 10, (Map.HEIGHT - this.startPointY - 1) * 20 + 10));
-            this.moveSpeed = 4;
+            this.moveSpeed = moveSpeed;
             this.index = 0;
         },
+
         update: function () {
             var pos = this.getPosition();
             var nextTurn = Character.WalkPath[this.index];
             if (pos.x != nextTurn.x + 10 || pos.y != nextTurn.y + 10 ) {
-                //console.log("Move!");
                 if (pos.x < nextTurn.x + 10 ) {
                     this.setPosition(pos.x + this.moveSpeed, pos.y);
                 } else if (pos.x > nextTurn.x + 10) {

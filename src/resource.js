@@ -1,7 +1,6 @@
 var res = {
     border_png : 'res/images/border.png',
     grass_png : 'res/images/grass.png',
-    space_png : 'res/images/space.png',
     startPoint_png : 'res/images/startPoint.png',
     walkpath_png : 'res/images/walkpath.png',
     wall_png : 'res/images/wall.png',
@@ -30,7 +29,8 @@ var res = {
     w_png : 'res/images/char/w.png',
     x_png : 'res/images/char/x.png',
     y_png : 'res/images/char/y.png',
-    z_png : 'res/images/char/z.png'
+    z_png : 'res/images/char/z.png',
+    car_crash_mp3 : 'res/sounds/car_crash.mp3'
 };
 
 var g_resources = [];
