@@ -68,7 +68,7 @@ var GameLayer = cc.LayerColor.extend({
             if(String.fromCharCode(keyCode).toLowerCase()==this.livingChar[0].char){
                 this.addScore(this.livingChar[0]);
                 this.removeChild(this.livingChar.shift());
-
+                cc.audioEngine.playEffect('res/sounds/ripping_open_a_pack_of_aaa_batteries.mp3');
             }
         }
 

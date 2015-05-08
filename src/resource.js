@@ -31,7 +31,8 @@ var res = {
     y_png : 'res/images/char/y.png',
     z_png : 'res/images/char/z.png',
     car_crash_mp3 : 'res/sounds/car_crash.mp3',
-    bgm_mp3 : 'res/sounds/Victory-relaxed-spacey-ambient-lounge-track.mp3'
+    bgm_mp3 : 'res/sounds/Victory-relaxed-spacey-ambient-lounge-track.mp3',
+    fx_mp3 : 'res/sounds/ripping_open_a_pack_of_aaa_batteries.mp3'
 };
 
 var g_resources = [];
