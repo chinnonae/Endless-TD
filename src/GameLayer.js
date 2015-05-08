@@ -19,6 +19,7 @@ var GameLayer = cc.LayerColor.extend({
 
         this.state = GameLayer.Start;
         this.retry = new Retry();
+        cc.audioEngine.playMusic('res/sounds/Victory-relaxed-spacey-ambient-lounge-track.mp3');
     },
 
     update: function(){
@@ -30,6 +31,11 @@ var GameLayer = cc.LayerColor.extend({
         }
         this.calculateSpeedAndLength();
         this.checkLivingCharHitWall();
+
+        if(!cc.audioEngine.isMusicPlaying()){
+            cc.audioEngine.playMusic('res/sounds/Victory-relaxed-spacey-ambient-lounge-track.mp3');
+        }
+
 
     },
 

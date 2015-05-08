@@ -30,7 +30,8 @@ var res = {
     x_png : 'res/images/char/x.png',
     y_png : 'res/images/char/y.png',
     z_png : 'res/images/char/z.png',
-    car_crash_mp3 : 'res/sounds/car_crash.mp3'
+    car_crash_mp3 : 'res/sounds/car_crash.mp3',
+    bgm_mp3 : 'res/sounds/Victory-relaxed-spacey-ambient-lounge-track.mp3'
 };
 
 var g_resources = [];
