@@ -61,6 +61,9 @@ var GameLayer = cc.LayerColor.extend({
         if(this.state == GameLayer.Died && cc.KEY.r == keyCode){
             this.clear();
             this.scheduleUpdate();
+            this.state = GameLayer.Playing;
+            this.scoreLabel.setString('Score : 0');
+
 
         }
 

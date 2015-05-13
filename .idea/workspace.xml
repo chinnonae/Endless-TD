@@ -1,331 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c504cd74-e04f-4756-92d1-17407908426b" name="Default" comment="">
-<<<<<<< HEAD
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\border.psd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\dot.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\grass.psd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\mob.psd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\mobs.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\space.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\startPoint.psd" afterPath="" />
-=======
-<<<<<<< HEAD
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\Base64Images.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\CCBoot.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\CCDebugger.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions3d\CCActionGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions3d\CCActionGrid3D.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions3d\CCActionPageTurn3D.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions3d\CCActionTiledGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCAction.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionCamera.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionCatmullRom.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionEase.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionInstant.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionInterval.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\actions\CCActionTween.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\audio\CCAudio.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\clipping-nodes\CCClippingNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\clipping-nodes\CCClippingNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\clipping-nodes\CCClippingNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\compression\ZipUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\compression\base64.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\compression\gzip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\compression\zlib.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCActionManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCCamera.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCConfiguration.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCDirector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCDirectorWebGL.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCDrawingPrimitivesCanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCDrawingPrimitivesWebGL.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\CCScheduler.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\BaseNodesPropertyDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCAtlasNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCAtlasNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCAtlasNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\base-nodes\CCNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\cocoa\CCAffineTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\cocoa\CCGeometry.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\event-manager\CCEvent.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\event-manager\CCEventExtension.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\event-manager\CCEventListener.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\event-manager\CCEventManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\event-manager\CCTouch.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\labelttf\CCLabelTTF.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\labelttf\CCLabelTTFCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\labelttf\CCLabelTTFWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\labelttf\LabelTTFPropertyDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\layers\CCLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\layers\CCLayerCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\layers\CCLayerWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCClass.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCCommon.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCEGLView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCInputExtension.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCInputManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCLoaders.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCMacro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCSAXParser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCScreen.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCTypes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCTypesPropertyDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCTypesWebGL.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\CCVisibleRect.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\platform\miniFramework.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\renderer\RendererCanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\renderer\RendererWebGL.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\scenes\CCLoaderScene.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\scenes\CCScene.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCAnimation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCAnimationCache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCBakeSprite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSprite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteBatchNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteBatchNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteBatchNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteFrame.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteFrameCache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\CCSpriteWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\sprites\SpritesPropertyDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\support\CCPointExtension.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\support\CCVertex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\support\TransformUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\textures\CCTexture2D.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\textures\CCTextureAtlas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\textures\CCTextureCache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\textures\TexturesPropertyDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\textures\TexturesWebGL.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\core\utils\BinaryLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\effects\CCGrabber.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\effects\CCGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\aabb.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\gl\mat4stack.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\gl\matrix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\mat3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\mat4.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\plane.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\quaternion.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\ray2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\utility.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\vec2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\vec3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\kazmath\vec4.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelAtlas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelAtlasCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelAtlasWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelBMFont.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelBMFontCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\labels\CCLabelBMFontWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\menus\CCMenu.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\menus\CCMenuItem.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\motion-streak\CCMotionStreak.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\motion-streak\CCMotionStreakWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\node-grid\CCNodeGrid.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\node-grid\CCNodeGridWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\parallax\CCParallaxNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\parallax\CCParallaxNodeRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCPNGReader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleBatchNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleBatchNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleBatchNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleExamples.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleSystemCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCParticleSystemWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\particle\CCTIFFReader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsDebugNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsDebugNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsDebugNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsSprite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsSpriteCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\physics\CCPhysicsSpriteWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\progress-timer\CCActionProgressTimer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\progress-timer\CCProgressTimer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\progress-timer\CCProgressTimerCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\progress-timer\CCProgressTimerWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\render-texture\CCRenderTexture.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\render-texture\CCRenderTextureCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\render-texture\CCRenderTextureWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shaders\CCGLProgram.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shaders\CCGLStateCache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shaders\CCShaderCache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shaders\CCShaders.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shape-nodes\CCDrawNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shape-nodes\CCDrawNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\shape-nodes\CCDrawNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\text-input\CCIMEDispatcher.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\text-input\CCTextFieldTTF.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTGAlib.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXLayerCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXLayerWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXObjectGroup.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXTiledMap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\tilemap\CCTMXXMLParser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\transitions\CCTransition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\transitions\CCTransitionPageTurn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\cocos2d\transitions\CCTransitionProgress.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBAnimationManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBKeyframe.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBReader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBReaderUtil.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBRelativePositioning.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBSequence.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCBValue.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCControlLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCNodeLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCNodeLoaderLibrary.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccb-reader\CCSpriteLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccpool\CCPool.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\CCProtectedNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\CCProtectedNodeCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\CCProtectedNodeWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\UIScale9Sprite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\UIScale9SpriteCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\UIScale9SpriteWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\UIWidget.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\base-classes\UIWidgetRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UIHBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayout.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayoutCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayoutComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayoutManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayoutParameter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UILayoutWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UIRelativeBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\layouts\UIVBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\system\CocosGUI.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\system\UIHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UIButton.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UICheckBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UIImageView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UILoadingBar.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UIRichText.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UISlider.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UIText.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UITextAtlas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UITextBMFont.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\UITextField.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\scroll-widget\UIListView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\scroll-widget\UIPageView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\ccui\uiwidgets\scroll-widget\UIScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\CocoStudio.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\action\CCActionFrame.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\action\CCActionManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\action\CCActionNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\action\CCActionObject.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\CCArmature.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\CCArmatureCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\CCArmatureWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\CCBone.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\animation\CCArmatureAnimation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\animation\CCProcessBase.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\animation\CCTween.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\datas\CCDatas.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCDecorativeDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCDisplayFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCDisplayManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCSkin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCSkinCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\display\CCSkinWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\physics\CCColliderDetector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCArmatureDataManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCArmatureDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCDataReaderHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCSpriteFrameCacheHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCTransformHelp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCTweenFunction.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\armature\utils\CCUtilMath.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComAttribute.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComAudio.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComController.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComRender.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\components\CCComponentContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\load.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\action-1.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\action-2.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\compatible.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\scene-1.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\timelineParser-1.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\timelineParser-2.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\loader\parsers\uiParser-1.x.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\timeline\ActionTimeline.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\timeline\Frame.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\timeline\Timeline.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\trigger\ObjectFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\trigger\TriggerBase.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\trigger\TriggerMng.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\cocostudio\trigger\TriggerObj.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\editbox\CCEditBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\editbox\CCdomNode.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlButton.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlColourPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlHuePicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlPotentiometer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlSaturationBrightnessPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlStepper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlSwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCControlUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCInvocation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCMenuPassive.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCScale9Sprite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCScale9SpriteCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\control-extension\CCScale9SpriteWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\scrollview\CCScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\scrollview\CCScrollViewCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\scrollview\CCScrollViewWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\scrollview\CCSorting.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\gui\scrollview\CCTableView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\spine\CCSkeleton.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\spine\CCSkeletonAnimation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\spine\CCSkeletonCanvasRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\spine\CCSkeletonWebGLRenderCmd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\extensions\spine\Spine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\box2d\box2d.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\chipmunk\chipmunk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\pluginx\Plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\pluginx\platform\facebook.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\pluginx\platform\facebook_sdk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\external\socketio\socket.io.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\frameworks\cocos2d-html5\jsb_apis.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\res\CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\res\CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\res\HelloWorld.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\res\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\Border.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\GameLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\Map.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\Mob.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\Space.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\StartPoint.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\WalkPath.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Cocos\Endless_TD\src\resource.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
-=======
-      <change type="DELETED" beforePath="C:\Cocos\Endless-TD\res\images\dot.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Character.js" afterPath="$PROJECT_DIR$/src/Character.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EndPoint.js" afterPath="$PROJECT_DIR$/src/EndPoint.js" />
+    <list default="true" id="5f260b1a-2322-44f3-a48b-a86b5b310568" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GameLayer.js" afterPath="$PROJECT_DIR$/src/GameLayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Map.js" afterPath="$PROJECT_DIR$/src/Map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resource.js" afterPath="$PROJECT_DIR$/src/resource.js" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
     </list>
-    <ignored path="Endless_TD.iws" />
+    <ignored path="Endless-TD.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -340,124 +20,35 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Endless_TD" />
+    <favorites_list name="Endless-TD" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
-      <file leaf-file-name="GameLayer.js" pinned="false" current-in-tab="false">
-=======
-<<<<<<< HEAD
-      <file leaf-file-name="project.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project.json">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3979933">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-=======
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="GameLayer.js" pinned="false" current-in-tab="true">
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
         <entry file="file://$PROJECT_DIR$/src/GameLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="94" selection-start-line="70" selection-start-column="94" selection-end-line="70" selection-end-column="94" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wall.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Wall.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#47#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wall.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/images/wall.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Map.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Retry.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Retry.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instruction.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Instruction.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Character.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Character.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.038462">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resource.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/resource.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3748622">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Border.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Border.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-<<<<<<< HEAD
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-=======
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
+            <state vertical-scroll-proportion="0.9577465">
+              <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -485,11 +76,6 @@
         <option value="$PROJECT_DIR$/src/StartPoint.js" />
         <option value="$PROJECT_DIR$/src/Space.js" />
         <option value="$PROJECT_DIR$/src/Border.js" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/Map.js" />
-        <option value="$PROJECT_DIR$/src/Mob.js" />
-        <option value="$PROJECT_DIR$/project.json" />
-=======
         <option value="$PROJECT_DIR$/src/Mob.js" />
         <option value="$PROJECT_DIR$/src/Turret.js" />
         <option value="$PROJECT_DIR$/src/Bullet.js" />
@@ -500,7 +86,6 @@
         <option value="$PROJECT_DIR$/src/Character.js" />
         <option value="$PROJECT_DIR$/src/Words.js" />
         <option value="$PROJECT_DIR$/src/WordsBuilder.js" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/StartLayer.js" />
         <option value="$PROJECT_DIR$/src/instruction.js" />
         <option value="$PROJECT_DIR$/src/Instruction.js" />
@@ -509,9 +94,6 @@
         <option value="$PROJECT_DIR$/src/Retry.js" />
         <option value="$PROJECT_DIR$/src/resource.js" />
         <option value="$PROJECT_DIR$/src/GameLayer.js" />
-=======
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
       </list>
     </option>
   </component>
@@ -523,21 +105,12 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
-=======
-    <option name="x" value="960" />
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -560,6 +133,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Endless_TD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -568,121 +151,9 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-<<<<<<< HEAD
-            <PATH_ELEMENT USER_OBJECT="Endless_TD">
-=======
             <PATH_ELEMENT USER_OBJECT="Endless-TD">
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-<<<<<<< HEAD
-=======
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-<<<<<<< HEAD
-=======
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sounds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless_TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Endless-TD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -733,6 +204,9 @@
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Endless-TD/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
       <method />
     </configuration>
@@ -774,18 +248,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Space.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.main.js" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.Map.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Map.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.main.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Space.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Map.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Space.js" />
       </list>
     </recent_temporary>
   </component>
@@ -795,7 +271,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c504cd74-e04f-4756-92d1-17407908426b" name="Default" comment="" />
+      <changelist id="5f260b1a-2322-44f3-a48b-a86b5b310568" name="Default" comment="" />
       <created>1427180760771</created>
       <option name="number" value="Default" />
       <updated>1427180760771</updated>
@@ -803,49 +279,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-=======
-<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36614582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27118644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-=======
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -866,77 +319,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/project.json">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding />
-=======
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-<<<<<<< HEAD
-=======
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-    <entry file="file://$PROJECT_DIR$/src/Character.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -948,398 +343,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Space.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Space.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Space.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Space.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
-=======
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
-    <entry file="file://$PROJECT_DIR$/index.html">
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StartPoint.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-<<<<<<< HEAD
-          <caret line="6" column="55" selection-start-line="5" selection-start-column="7" selection-end-line="6" selection-end-column="55" />
-=======
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-<<<<<<< HEAD
-=======
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Space.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EndPoint.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-<<<<<<< HEAD
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-=======
-          <caret line="6" column="55" selection-start-line="5" selection-start-column="7" selection-end-line="6" selection-end-column="55" />
-          <folding />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WalkPath.js">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-=======
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.3979933">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-=======
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding />
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharacterBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordsBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Words.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/images/wall.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Retry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Border.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Character.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Instruction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="94" selection-start-line="70" selection-start-column="94" selection-end-line="70" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3748622">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-=======
-        <state vertical-scroll-proportion="0.7684675">
-          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
->>>>>>> 2c4c6d97cbd67b09e7a57718d5984c079eee8156
->>>>>>> 326e9bc0d62a53ab695af70d1ab42b2ba32dbe6e
+        <state vertical-scroll-proportion="0.9577465">
+          <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
           <folding />
         </state>
       </provider>
